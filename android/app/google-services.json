@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "808932387046",
+    "project_id": "sportbaze111",
+    "storage_bucket": "sportbaze111.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:808932387046:android:be3c770f306747d8eb3327",
+        "android_client_info": {
+          "package_name": "com.example.pet_project1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBk47v2Q4MYZWBb0boodFZeQEMnfSnxnYI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
